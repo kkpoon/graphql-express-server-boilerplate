@@ -1,0 +1,25 @@
+{
+  "name": "graphql-express-server-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkpoon/graphql-express-server-boilerplate.git"
+  },
+  "author": "kkpoon <noopkk@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kkpoon/graphql-express-server-boilerplate/issues"
+  },
+  "homepage": "https://github.com/kkpoon/graphql-express-server-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-graphql": "^0.5.1",
+    "graphql": "^0.5.0",
+    "node-fetch": "^1.5.1"
+  }
+}
