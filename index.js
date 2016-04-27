@@ -1,4 +1,3 @@
-var graphql = require("graphql");
 var graphqlHTTP = require("express-graphql");
 var express = require("express");
 
